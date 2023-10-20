@@ -131,7 +131,7 @@
               </uix:NGetText.Target>
             </uix:NGetText>
             <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="338,96" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[out_OutputText]" />
-            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="338,96" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[out_OutputText]" />
+            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="338,96" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;testing Purpose&quot;]" />
           </Sequence>
         </ActivityAction>
       </uix:NApplicationCard.Body>
